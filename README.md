@@ -24,7 +24,7 @@
 <p align="center">
   <em>
     Hello, I am Zouhair Ghazi, a <b>2nd year</b> undergraduate from <a href="https://www.telecom-st-etienne.fr/en/"> <b>Télécom Saint-Etienne</b>, France</a>. <br>
-    <b>Graduating in 2023 as a software engineer specializing in Web & Mobile development, DevOps & Networking, with a minor in AI systems & ML</b> 
+    <b>Graduating in 2023 as a software engineer specializing in Web & Mobile development, DevOps & Networking,<br> with a minor in AI systems & ML</b><br>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I'm an <b>avid & passionate coder</b>&nbsp;
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Computer Science</b> and always looking to solve problems in the most <b>efficient</b> way.
@@ -40,43 +40,18 @@
 🔭 I’m currently Developing a server monitoring tool for a linux based machine with **dash**<br>
 🌱 I’m currently learning about **DevOps**🥰<br>
 👯 I’m looking to collaborate with any **Open - Source DevOps projects**<br>
-💬 Ask me about anything, don't be shy !
+💬 Ask me about anything, don't be shy !<br>
 ⚡ Fun fact: I'm a huge Competitive Programming fan !
  
 <br><br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My programming languages...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+  
+  ![mysql](https://user-images.githubusercontent.com/56552739/151788532-bc2e3c7e-88e3-4501-a70d-3cc90b434010.png)
+  ![javascript](https://user-images.githubusercontent.com/56552739/151788622-613898b7-3f19-4d4e-b5cd-947d26ab1003.png)
+  ![node-js](https://user-images.githubusercontent.com/56552739/151788820-a1e2a2da-3994-4431-b666-28de3088f192.png)
+  ![java](https://user-images.githubusercontent.com/56552739/151788930-3d0c8b8b-659b-4666-bd8d-b555018bd2d5.png)  ![linux](https://user-images.githubusercontent.com/56552739/151789012-a6fc5f0e-c36e-4e11-93e0-ab7d648b568b.png)
+  ![express](https://user-images.githubusercontent.com/56552739/151789181-319ed21a-e440-4040-b1bd-375951c908d4.png)
+  ![webpack](https://user-images.githubusercontent.com/56552739/151789485-2c845473-656b-4104-ba32-1e6816678b76.png)
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZouhairGhazi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZouhairGhazi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
------
-Readme inspired by: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
