@@ -69,6 +69,7 @@
    ![webpack](https://user-images.githubusercontent.com/56552739/151806872-d8d49483-0c2f-4836-a660-7be6ff3b139a.png)
    ![mongodb](https://user-images.githubusercontent.com/56552739/151811037-ecf60404-681a-481a-b164-df23a5c93bea.png)
    ![firebase](https://user-images.githubusercontent.com/56552739/151811137-6dbfdd2b-4f49-40ae-9bc6-4f0ded2c7214.png)
+   ![wordpress](https://user-images.githubusercontent.com/56552739/151816138-0c6c04bb-793b-4943-b434-a0622a31398d.png)
 
 
 <br><br>
@@ -83,7 +84,7 @@
 
 
 <br><br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***DevOps...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***DevOps & Agile tools...***
 <p align="left">
   
    ![git](https://user-images.githubusercontent.com/56552739/151810556-b3dc019d-008e-4596-8964-ca22dd9e92e3.png)
@@ -91,4 +92,8 @@
    ![github](https://user-images.githubusercontent.com/56552739/151810626-d598ebab-8bd8-4611-9661-be993a897736.png)
    ![linux](https://user-images.githubusercontent.com/56552739/151789012-a6fc5f0e-c36e-4e11-93e0-ab7d648b568b.png)
    ![docker](https://user-images.githubusercontent.com/56552739/151800199-f10553af-75ec-4c5e-b94d-1537ef2aad38.png)
+   ![trello](https://user-images.githubusercontent.com/56552739/151816106-e0987713-2daa-4ab5-8bf2-b639bf38fdf8.png)
+   ![jira](https://user-images.githubusercontent.com/56552739/151816459-c8ebfc97-e209-4586-a15a-794b65f41936.png)
+
+
    
