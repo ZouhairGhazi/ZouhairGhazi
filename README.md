@@ -10,8 +10,8 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Zouhair Ghazi </h1>
 <h3 align="center">Software Engineer | Web & Mobile Developer | Machine Learning Enthusiast </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/zouhair_ghazi" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_zouhair" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zouhair-ghazi-02a71a1a4/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_zouhair" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/zouhair_ghazi" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-black?style=flat&logo=hackerrank&labelColor=black" /></a>
+<a href="https://www.linkedin.com/in/zouhair-ghazi-02a71a1a4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>  
 <a href="https://www.kaggle.com/zouhairghazi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_zouhair" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zouhair.ghazi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_zouhair" height="30" width="40" /></a>
 <a href="https://www.facebook.com/zouhair.ghazi.17/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_zouhair" height="30" width="40" /></a>
