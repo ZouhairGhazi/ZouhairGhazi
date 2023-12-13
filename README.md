@@ -25,7 +25,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Zouhair Ghazi, a <b>final year</b> undergraduate at <a href="https://www.telecom-st-etienne.fr/en/"> <b>Télécom Saint-Etienne</b>, France</a>. <br>
+    Hello, I am Zouhair Ghazi, a <b>software engineer</b> specializing in Fullstack development, freshly graduating from <a href="https://www.telecom-st-etienne.fr/en/"> <b>Télécom Saint-Etienne</b>, France</a>. <br>
     <b>Graduating in 2023 as a software engineer specializing in Web & Mobile development, DevOps & Networking,<br> with a minor in AI systems & ML</b><br>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I'm an <b>avid & passionate coder</b>&nbsp;
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
