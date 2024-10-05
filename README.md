@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=ZouhairGhazi&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Location-Saint--Etienne%20,France-success" />
+  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Location-Paris,%20France-success" />
   <img src="https://img.shields.io/badge/Languages-English, French%20%26%20Arabic-danger" />
 </p>
 <hr>
